@@ -1,7 +1,7 @@
 https://cookbookcreate.com/recipes/55716-dwayne-the-rock-johnson-world-famous-pancakes-recipe
 
 150g Mehl
-2 Esslöffel
+2 Esslöffel Zucker
 2 Teelöffel Backpulver
 1/2 Teelöffel Salz
 1 Ei, geschlagen
