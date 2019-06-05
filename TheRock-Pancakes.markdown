@@ -1,13 +1,14 @@
 https://cookbookcreate.com/recipes/55716-dwayne-the-rock-johnson-world-famous-pancakes-recipe
 
-150g Mehl
-2 Esslöffel Zucker
-2 Teelöffel Backpulver
-1/2 Teelöffel Salz
-1 Ei, geschlagen
-250ml Milch
-1 Teelöffel Öl
-2 Bananen (optional)
+# Zutaten
+* 150g Mehl
+* 2 Esslöffel Zucker
+* 2 Teelöffel Backpulver
+* 1/2 Teelöffel Salz
+* 1 Ei, geschlagen
+* 250ml Milch
+* 1 Teelöffel Öl
+* 2 Bananen (optional)
 
 Directions
 1.	In a large bowl, stir together the flour, sugar, baking powder, and salt.
